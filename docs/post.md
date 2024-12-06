@@ -23,7 +23,7 @@ A *Jekflix* post file looks like:
 ---
 date: 2019-05-16 23:48:05
 layout: post
-title: Welcome to the desert of the real
+title: ADA
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -87,7 +87,7 @@ Example:
 # _posts/2019-08-22-example.md
 ---
 ...
-title: Welcome to the desert of the real
+title: Welcome
 ...
 ---
 ```
